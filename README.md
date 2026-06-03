@@ -13,8 +13,4 @@ This report analyzes the company's sales activities and performance across diffe
 <h2>What I explored</h2>
 I explored the performance of each product throughout the year, highlighting trends, sales performance and key performance indicators.
 
-<h1></h1>
-<p align="center">
-Dashboard Preview: <br/>
-<img src="https://i.imgur.com/a/ivvf885.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+(Dashboard Preview)[https://github.com/eniola-ola/SALES-REPORT/tree/main]
